@@ -1,4 +1,4 @@
 # apna-college
 This is my first git Repository
 <br>
-Author - shwea (Apna College)
+Author - shweta borganve (Apna College)
